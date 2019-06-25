@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## DIY 101 : How to Setup a Headless Raspberry Pi Zero W
 
 You can use the [editor on GitHub](https://github.com/eagleeyelab/iot-rpi-0-setup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
