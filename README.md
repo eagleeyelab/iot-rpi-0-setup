@@ -4,7 +4,7 @@
 
 You can use the [editor on GitHub](https://github.com/eagleeyelab/iot-rpi-0-setup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/C0FK7d4dJ5k/0.jpg)](http://www.youtube.com/watch?v=C0FK7d4dJ5k "Introducing Raspberry Pi Zero W")
+[![IMAGE ALT TEXT](http://i3.ytimg.com/vi/C0FK7d4dJ5k/maxresdefault.jpg)](http://www.youtube.com/watch?v=C0FK7d4dJ5k "Introducing Raspberry Pi Zero W")
 
 
 
